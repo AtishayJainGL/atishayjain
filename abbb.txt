@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hello  there i am good
+=======
+Hello hi i am there heyjjjj
+>>>>>>> develop
